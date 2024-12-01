@@ -36,7 +36,7 @@
   .logo img {
     width: 100%; /* Allows scaling */
     max-width: 160px; /* Set maximum width for larger screens */
-    height: 155px; /* Maintains aspect ratio */
+    height: auto; /* Maintains aspect ratio */
     object-fit: contain; /* Ensures image is not cropped */
     margin-top: -40px;
     margin-bottom: -40px;
